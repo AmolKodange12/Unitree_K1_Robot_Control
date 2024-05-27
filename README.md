@@ -19,3 +19,5 @@ Working load: about 1000g
 Arm weight: ≤ 2600g  
 Arm dimensions: 180 x 120 x 70 mm.  
 
+Update - 27.05  
+Was able to turn on the robot and perform basic movements using record/play funtionality.
