@@ -4,7 +4,7 @@ Figuring out the controls of the robotic arm K1 from Unitree, Starting goals inc
 
 
 Arm technical specification
-Purpose: extension to the Unitree Go1 walking platform
+ /n Purpose: extension to the Unitree Go1 walking platform
 Number of axes: 6+1 degrees of freedom
 Arm end: gripper
 Horizontal extension distance: ≥ 530 mm
